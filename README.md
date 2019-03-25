@@ -1,3 +1,3 @@
 # test
-`just a teszt`
+`just a test`
 `test`
